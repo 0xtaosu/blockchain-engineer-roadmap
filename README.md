@@ -12,7 +12,7 @@
 2. 操作系统
 
 |  知识点  |                             内容                             |         里程碑          | 
-| :------: | :----------------------------------------------------------: | :---------------------: | :------: |
+| :------: | :----------------------------------------------------------: | :---------------------: | 
 | 文件系统 | [学习 Shell Scripts](http://linux.vbird.org/linux_basic/0340bashshell-scripts.php) |  使用shell实现一个bash  |  
 | 进程管理 | [进程管理](http://wuchong.me/blog/2014/07/24/linux-process-manage/) |                         |  
 | 系统调用 | [Linux 系统调用权威指南](https://arthurchiao.github.io/blog/system-call-definitive-guide-zh/) | 使用shell实现一个docker |   
